@@ -4,7 +4,7 @@
 #          CREATED : ONINE HACKING           #
 #             AUTHOR: SUMAN                  #
 #         ONLINE HACKING ©2021               #
-#     EMAIL: info@onlinehacking.xyz    #
+#     EMAIL: info@onlinehacking.xyz          #
 #           GAME PHISHING TOOLS              #              
 #       created by :- s u m a n              #
 #                                            #
@@ -60,6 +60,17 @@ SUMAN ©\e[34m
 ONLINE HACKING			  
 							  							  
           \e[m"
+	  
+echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
+  
+echo -e " \e[31mGitHub : \e[0m\e[92mhttps://github.com/OnlineHacKing \e[0m\n"
+
+echo -e " \e[31mTelegram : \e[0m\e[92mhttps://t.me/OnlineHacKing \e[0m\n"
+
+echo -e " \e[31mFacebook Page : \e[0m\e[92mhttps://www.facebook.com/AdminOnlineHacKing \e[0m\n"
+
+echo -e " \e[31mInstagram : \e[0m\e[92mhttps://www.instagram.com/suman333mondal_/ \e[0m\n"
+
 }
 
 
