@@ -57,19 +57,18 @@ SUMAN ©\e[34m
     ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║  
     ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝   
-ONLINE HACKING			  
-							  							  
+ONLINE HACKING			  							  							  
           \e[m"
 	  
 echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
   
-echo -e " \e[31mGitHub : \e[0m\e[92mhttps://github.com/OnlineHacKing \e[0m\n"
+echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing \e[0m\n"
 
-echo -e " \e[31mTelegram : \e[0m\e[92mhttps://t.me/OnlineHacKing \e[0m\n"
+echo -e " \e[97mTelegram : \e[0m\e[95mhttps://t.me/OnlineHacKing \e[0m\n"
 
-echo -e " \e[31mFacebook Page : \e[0m\e[92mhttps://www.facebook.com/AdminOnlineHacKing \e[0m\n"
+echo -e " \e[34mFacebook Page : \e[0m\e[31mhttps://www.facebook.com/AdminOnlineHacKing \e[0m\n"
 
-echo -e " \e[31mInstagram : \e[0m\e[92mhttps://www.instagram.com/suman333mondal_/ \e[0m\n"
+echo -e " \e[93mInstagram : \e[0m\e[92mhttps://www.instagram.com/suman333mondal_/ \e[0m\n"
 
 }
 
@@ -135,7 +134,7 @@ local spinstr='|/-\'
 while [ "$(ps a | awk '{print $1}' | grep $pid)" ]; do
 local temp=${spinstr#?}
 tput civis
-printf "\e[1;91m\r[\e[92m*\e[91m]\e[1;93m Setting up Online Hacking PUBG ID Hack Tool ... [\e[1;92m%c\e[1;93m]\e[0m  " "$spinstr"
+printf "\e[1;91m\r[\e[92m*\e[91m]\e[1;93m Setting up Online Hacking Free Fire ID Hack Tool ... [\e[1;92m%c\e[1;93m]\e[0m  " "$spinstr"
 local spinstr=$temp${spinstr%"$temp"}
 sleep $delay
 printf "\b\b\b\b\b\b"
@@ -240,8 +239,6 @@ echo -e "\e[95m
      ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
      
-echo -e " \e[36mFree Live Hacking : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
-  
 echo -e " \e[31mOriginal GitHub : \e[0m\e[92mhttps://github.com/OnlineHacKing/FreeFire-Phishing \e[0m\n"
 
 echo 
