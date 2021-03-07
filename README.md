@@ -1,2 +1,1 @@
-# FreeFire-Phishing
-Free Fire ID Hack Phishing Tool For Online Hacking
+# How to Install Open Link : https://www.onlinehacking.xyz/PUBG-Mobile-ID-Hack
