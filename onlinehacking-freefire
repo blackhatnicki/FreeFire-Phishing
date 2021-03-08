@@ -245,7 +245,7 @@ echo
 banner(){
 echo -e "\e[1;96m==================================================================\e[m "
 echo " "
-printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mBest Page \e[33mDont Use admin not active this page\e[0m"
+printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44mChoose Gift + Package Gift + Lucky Spin \e[0m \e[33mI'm warning you not to hack anyone's ID and harass them\e[33m"
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"
 echo
