@@ -43,7 +43,7 @@ printf " \e[33;1m                                                               
 
 printf " \e[33;1m                    \e[1;97m    Online Hacking       \e[0m\n"
 printf " \n"
-printf " \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Online Hacking  (SUMAN_MONDAL)\e[0m\n"
+printf " \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Online Hacking  (SUMAN MONDAL)\e[0m\n"
 printf " \n"
 printf " \e[36;1m.:.Choose any Phishing Free Fire ID Hack by OnlineHacking.:.\e[0m\n"
 printf " \n"
