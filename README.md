@@ -120,13 +120,13 @@ chmod +x *
 
 <br>
 <p align="center">
-<img width="45%" src="#"/>
-<img width="41%" src="#"/>
+<img width="45%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/Screenshot_20210520-121535_Termux~2-min.png"/>
+<img width="41%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/Screenshot_20210520-121853_Termux~2-min.png"/>
 </p>
 <br>
 <p align="center">
-<img width="40%" src="#"/>
-<img width="41%" src="#"/>
+<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/Screenshot_20210520-121309_Termux~2-min.png"/>
+<img width="41%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/Screenshot_20210520-121246_Termux~2-min.png"/>
 </p>
 
 
