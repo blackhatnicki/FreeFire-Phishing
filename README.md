@@ -84,7 +84,7 @@ cd FreeFire-Phishing
 
 chmod +x *
 
-./Andriod-Setup
+./Android-Setup
 ```
 There are 2 Tool Script for Android (Use Any Tool)
 ```
