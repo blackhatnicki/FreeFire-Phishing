@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-<a href="https://www.onlinehacking.xyz/2021/03/FreeFireID-Hack.html"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-PUBG_PHISHING-green.svg"></a>
+<a href="https://www.onlinehacking.xyz/2021/03/FreeFireID-Hack.html"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FREEFIRE_PHISHING-green.svg"></a>
 <a href="https://www.onlinehacking.xyz/2021/03/FreeFireID-Hack.html"><img title="Version" src="https://img.shields.io/badge/Version-2.2-green.svg?style=flat-square"></a>
 <a href="https://www.onlinehacking.xyz/2021/03/FreeFireID-Hack.html"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
