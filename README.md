@@ -90,14 +90,9 @@ cd FreeFire-Phishing
 
 chmod +x *
 
-./Android-Setup
-```
-There are 2 Tool Script for Android (Use Any Tool)
-```
-onlinehacking-freefire
-```
-```
-./OnlineHacking-Phishing.sh
+./Andriod-Setup
+
+./OnlineHacking-Phishing
 ```
 
 
@@ -117,7 +112,7 @@ chmod +x *
 
 ./Linux-Setup
 
-./OnlineHacking-Phishing.sh
+./OnlineHacking-Phishing
 ```
 
 ## ✅ INSTALLATION [ Windows ] :
