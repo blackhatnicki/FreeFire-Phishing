@@ -23,7 +23,7 @@ if [[ $option == *'n'* ]]; then
 clear
 exit
 fi
-
+ 
 php="$(ps -efw | grep php | grep -v grep | awk '{print $2}')"
 ngrok="$(ps -efw | grep ngrok | grep -v grep | awk '{print $2}')"
 kill -9 $php
@@ -68,7 +68,7 @@ echo ""
                            echo ""
                            echo ""
 echo -e "\e[92m
-SUMAN ©\e[34m
+ SUMAN ©\e[34m
          ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
         ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
         ██║   ██║██╔██╗ ██║██║     ██║██╔██╗ ██║█████╗      
