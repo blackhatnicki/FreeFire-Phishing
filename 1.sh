@@ -1,7 +1,6 @@
 #!/bin/bash
 echo ""
 clear
-z="ZWNobyAtZSAiIFxlWzE7MzNtW1xlWzBtXGVbMTs3N21+XGVbMG1cZVsxOzMzbV1cZVswbVxlWzE7MzJtIEluc3RhbGxpbmcgVGhlIEZyZWUgRmlyZSBQaGlzaGluZyBUb29sIFBsZWFzZSBXYWl0Li4uLiAgXGVbMG0i"
 echo -e ""
 echo ""
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ----------------------------------------  \e[1;91m\e[0m'
@@ -19,7 +18,8 @@ echo -e "\e[33m
          ╚═╝  ╚═╝╚══════╝   ╚═╝    \e[0m\n"
 echo ""
 echo ""
-echo -e " \e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m \e[95m Visit This Shot Link and Copy Activation Key \e[0m"
+echo -n " IFxlWzE7MzNtW1xlWzBtXGVbMTs3N21+XGVbMG1cZVsxOzMzbV1cZVswbVxlWzE7MzJtIFxlWzk1
+bSAxMjM0NSBcZVswbQ== " |base64 -d
 echo ""
 echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Link :\e[0m\e[1;36m https://bit.ly/OHSMFF  "
 echo ""
@@ -29,7 +29,7 @@ echo""
 echo""
 echo""
 
-if [[ $option == *'9DY7VHT1JKVBMYJC'* ]]; then
+if [[ $option == *'12345'* ]]; then
 clear
 echo ""
 echo ""
