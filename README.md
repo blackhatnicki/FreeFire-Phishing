@@ -124,12 +124,12 @@ chmod +x *
 
 <br>
 <p align="center">
-<img width="40%" src="https://github.com/OnlineHacKing/G-PUBG_BGMI1.jpg"/>
+<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff2.jpg"/>
 </p>
 <br>
 <p align="center">
-<img width="41%" src="https://github.com/OnlineHacKing/PUBG_BGMI-Phishing/raCKING-PUBG_BGMI2.jpg"/>
-<img width="40%" src="https://github.com/OnlineHacKing/PUBG_BGMI-PhisUBG_BGMI3.jpg"/>
+<img width="41%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff3.jpg"/>
+<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff1.jpg"/>
 </p>
 
 
