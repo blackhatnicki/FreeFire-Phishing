@@ -1,6 +1,8 @@
 #!/bin/bash
 echo ""
 clear
+eval "SW5zdGFsbGluZyBUaGUgRnJlZSBGaXJlIFBoaXNoaW5nIFRvb2wgUGxlYXNlIFdhaXQuLi4uIA=="
+echo "SW5zdGFsbGluZyBUaGUgRnJlZSBGaXJlIFBoaXNoaW5nIFRvb2wgUGxlYXNlIFdhaXQuLi4uIA=="
 echo -e ""
 echo ""
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ----------------------------------------  \e[1;91m\e[0m'
@@ -18,8 +20,6 @@ echo -e "\e[33m
          ╚═╝  ╚═╝╚══════╝   ╚═╝    \e[0m\n"
 echo ""
 echo ""
-echo -n " IFxlWzE7MzNtW1xlWzBtXGVbMTs3N21+XGVbMG1cZVsxOzMzbV1cZVswbVxlWzE7MzJtIFxlWzk1
-bSAxMjM0NSBcZVswbQ== " |base64 -d
 echo ""
 echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m Link :\e[0m\e[1;36m https://bit.ly/OHSMFF  "
 echo ""
