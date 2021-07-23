@@ -25,7 +25,7 @@ echo""
 echo""
 echo""
 
-if [[ $option == *'OHSMPRO42'* ]]; then
+if [[ $option == *'9DY7VHT1JKVBMYJC'* ]]; then
 clear
 echo ""
 echo ""
