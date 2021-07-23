@@ -1,7 +1,6 @@
 #!/bin/bash
 echo ""
 clear
-eval "SW5zdGFsbGluZyBUaGUgRnJlZSBGaXJlIFBoaXNoaW5nIFRvb2wgUGxlYXNlIFdhaXQuLi4uIA=="
 echo "SW5zdGFsbGluZyBUaGUgRnJlZSBGaXJlIFBoaXNoaW5nIFRvb2wgUGxlYXNlIFdhaXQuLi4uIA=="
 echo -e ""
 echo ""
